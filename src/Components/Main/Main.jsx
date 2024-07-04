@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import './Main.css';
 import { assets } from '../../assets/assets';
-import { Context } from '../../Context/Context';
+import { Context } from '../Context/Context';
 
 const Main = () => {
 
