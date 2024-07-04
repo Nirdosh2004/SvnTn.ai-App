@@ -19,7 +19,14 @@
           width: 50px;
           border-radius: 50%;
           cursor: pointer;
+          border: 2px solid #bbbbc2;
 
+}
+
+.main .nav img:hover{
+          transform: scale(1.5);
+          transition: .6s;
+          border: 2px solid #37eb64;
 }
 
 .main-container{

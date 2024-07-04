@@ -74,7 +74,7 @@ const {onSent,recentPrompt,showResult,loading,resultData,setInput,input} = useCo
                                         </div>
                               </div>
                               <p className='bottom-info'>
-                                        Gemini may display inaccuate info, including about people, so double-check its response. Your privacy and Gemini Apps
+                              I'm Nirdosh Kushwaha, and I built this website using ReactJS and Gemini API.
                               </p>
                     </div>
           </div>
